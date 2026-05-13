@@ -86,6 +86,38 @@ Müfredat, teorik bilginin ötesinde gerçek dünya verilerine dayalı bir araş
 
 ---
 
+## 🗺️ Vaha Master Planı Katmanları
+
+Bir vaha inşası, dört kritik katmanın bütünleşik tasarımından oluşur:
+
+1.  **Hidrolojik Katman:** Yeraltı sarnıçları, swale hatları ve CCT hendekleri ile suyun arazideki pasif yönetimi.
+2.  **Pedolojik Katman:** Nanokil, biochar ve mikrobiyal aşılama ile toprağın biyolojik olarak "şarj" edilmesi.
+3.  **Biyolojik Katman:** Yer örtücülerden dev kanopi ağaçlarına kadar 7 katmanlı gıda ormanı ve rüzgar kıran tasarımı.
+4.  **Dijital Katman:** Vaha-OS ile sistemin verimliliğini gerçek zamanlı takip eden "Dijital İkiz" (Digital Twin) altyapısı.
+
+---
+
+## 🚀 Gelecek Vizyonu ve Yol Haritası
+
+Vaha Mühendisliği Müfredatı, sürekli gelişen bir açık kaynaklı organizmadır:
+
+- [ ] **Q1 2026:** Vaha-OS Mobil Uygulaması (PWA) prototipi ve LoRaWAN entegrasyonu.
+- [ ] **Q2 2026:** Uydu verileri (Sentinel-2) ile entegre NDVI ve biyokütle takip modülü.
+- [ ] **Q3 2026:** "Vaha Köyleri" için kolektif su yönetim protokolleri ve blokzincir tabanlı su kredileri.
+- [ ] **Q4 2026:** Yapay zeka tabanlı "Tür Öneri Motoru" (Bölgeye göre bitki birliği optimizasyonu).
+
+---
+
+## 🤝 Katkıda Bulunma ve Topluluk
+
+Bu müfredat insanlığın ortak mirasıdır. Bilginizi veya yerel tekniklerinizi paylaşarak vahayı büyütebilirsiniz:
+
+- **Araştırmacı:** Yeni vaka analizleri veya akademik kaynaklar ekleyin.
+- **Geliştirici:** Vaha-OS kodlarını optimize edin veya yeni sensör sürücüleri yazın.
+- **Uygulayıcı:** Kendi "Vaha Master Planınızı" ve uygulama sonuçlarınızı toplulukla paylaşın.
+
+---
+
 ## 🎓 Mezuniyet ve Uygulama
 
 Müfredatı tamamlayan kullanıcıların; kendi bölgeleri için su, toprak ve bitki katmanlarını içeren **"Vaha Master Planı"** hazırlamaları beklenir. Başarılı uygulamalar "Community Showcase" bölümünde sergilenir.
