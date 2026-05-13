@@ -46,6 +46,28 @@ Program, temel teoriden karmaşık sistem tasarımına doğru ilerleyen 6 ana mo
 
 ---
 
+## 🏛️ Modül Detayları ve Müfredat İçeriği
+
+### VAHA 101: Teorik Çerçeve ve Etik
+Bu modül, vaha inşasının zihinsel temelini atar. Xeriscape felsefesinden termodinamik yasalara kadar, doğaya hükmetmek yerine onun enerjisini nasıl yönlendireceğimizi öğreniriz. Kuraklığın bir kriz değil, bir tasarım parametresi olduğu bu bölümde, ekolojik onarımın etik manifestosu kaleme alınır.
+
+### VAHA 201: Su Mühendisliği ve Hidroloji
+"Koşan suyu yürütmek" bu modülün ana sloganıdır. Yağmur hasadı teknikleri, kontur hendekleri (CCT), swale tasarımları ve atmosferik su yakalama sistemleri ile arazinin hidrolojik hafızasını onarırız. Suyun toprağın altında dev bir banka hesabı gibi nasıl depolanacağı teknik detaylarıyla işlenir.
+
+### VAHA 301: Toprak Rejenerasyonu ve Simya
+Ölü ve kumlu toprakların, mikrobiyal hayat ve nanoteknoloji ile nasıl canlandırılacağına odaklanır. Biochar üretimi, sıvı nanokil (LNC) uygulamaları ve mikoriza mantarlarının simbiyotik gücü ile toprak, su tutan ve karbon hapseden canlı bir "sünger" katmanına dönüştürülür.
+
+### VAHA 401: Kurakçıl Botanik ve Flora
+Vahanın biyolojik iskeleti burada kurulur. Sukulentlerin adaptasyon stratejilerinden, çölde 40 metreye kök salan Ghaf ağaçlarına kadar geniş bir bitki arşivi incelenir. Rüzgar kıranlar, yer örtücüler ve meyve ormanlarının bir ekosistem bütünlüğü içinde nasıl "bitki birlikleri" (guilds) oluşturacağı öğretilir.
+
+### VAHA 501: Tasarım, Uygulama ve IoT
+Teorinin pratikle, kadimin modernle buluştuğu noktadır. Permakültür bölgeleri tasarımı, eğimli arazi tarım teknikleri ve mikro-iklim oluşturma stratejileri, Arduino/ESP32 tabanlı akıllı vaha kontrol üniteleri ile birleştirilir. Teknoloji, doğayı izlemek ve korumak için bir araç olarak kullanılır.
+
+### VAHA 601: Geleneksel Bilgelik ve Vaka Analizleri
+İnsanlığın binlerce yıllık hayatta kalma mirası günümüze taşınır. İnka teraslarından İran'ın antik buzhanelerine (Yakhchāl), Mezopotamya'nın kehrizlerinden Çin'in Loess Platosu restorasyonuna kadar küresel başarı hikayeleri analiz edilir. Geçmişin mühendisliği, geleceğin vahaları için ilham kaynağı olur.
+
+---
+
 ## 🧪 Laboratuvar ve Ar-Ge Birimleri
 
 Müfredat, teorik bilginin ötesinde gerçek dünya verilerine dayalı bir araştırma ekosistemi sunar:
