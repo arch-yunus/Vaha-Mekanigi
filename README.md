@@ -1,7 +1,7 @@
 # 🎓 VAHA MÜHENDİSLİĞİ MÜFREDATI
 > **Kurak Topraklarda Yaşamın İnşası: Kapsamlı Ekolojik Restorasyon ve Tasarım Eğitimi**
 
-![Vaha Mühendisliği Banner](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=2070)
+![Vaha Mühendisliği Banner](https://images.unsplash.com/photo-1508233620467-f79f1e317a05?auto=format&fit=crop&q=80&w=2070)
 
 **Vaha Mühendisliği Müfredatı**, iklim krizi ve çölleşme tehdidi altındaki dünyamızda, bir araziyi 12 ay içinde kendi kendini idame ettirebilen dirençli bir ekosisteme dönüştürmek için tasarlanmış açık kaynaklı bir **Eğitim Protokolü**dür. Bu müfredat, kadim vaha bilgeliğini modern mühendislik disiplinleri ve nanoteknoloji ile birleştirir.
 
