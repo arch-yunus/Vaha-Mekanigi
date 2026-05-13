@@ -27,6 +27,7 @@ Eğitime başlamadan önce adayların aşağıdaki temel ekipman ve zihinsel haz
 - **Temel Teknik Araçlar:** Toprak pH ölçer, nem sensörü, temel bahçe aletleri.
 - **Dijital Okuryazarlık:** Temel Arduino/ESP32 bilgisi (VAHA 501 için).
 - **Etik Taahhüt:** Doğaya karşı değil, doğa ile simbiyotik çalışma disiplini.
+- **Ders Sözlüğü:** Müfredatta geçen terimler için [Sözlük](file:///SOZLUK.md) sayfasını kullanın.
 
 ---
 
@@ -36,12 +37,12 @@ Program, temel teoriden karmaşık sistem tasarımına doğru ilerleyen 6 ana mo
 
 | Modül | Ders Kodu | Kapsam | Kazanımlar |
 | :--- | :--- | :--- | :--- |
-| [**Teorik Çerçeve**](file:///VAHA_101_Teorik_Cerceve/) | **VAHA 101** | [Xeriscape](file:///VAHA_101_Teorik_Cerceve/xeriscape_ilkeleri.md), [Termodinamik](file:///VAHA_101_Teorik_Cerceve/kuraksil_termodinamik.md), [Etik İlkeler](file:///VAHA_101_Teorik_Cerceve/xeriscape_etik_ilkeleri.md). | Ekolojik tasarım vizyonu ve etik altyapı. |
+| [**Teorik Çerçeve**](file:///VAHA_101_Teorik_Cerceve/) | **VAHA 101** | [Xeriscape](file:///VAHA_101_Teorik_Cerceve/xeriscape_ilkeleri.md), [Termodinamik](file:///VAHA_101_Teorik_Cerceve/kuraksil_termodinamik.md), [Metodoloji](file:///VAHA_101_Teorik_Cerceve/vaha_planlama_metodolojisi.md). | Ekolojik tasarım vizyonu ve etik altyapı. |
 | [**Su Mühendisliği**](file:///VAHA_201_Su_Muhendisligi/) | **VAHA 201** | [Yağmur Hasadı](file:///VAHA_201_Su_Muhendisligi/yagmur_hasadi_teknikleri.md), [Gri Su Arıtma](file:///VAHA_201_Su_Muhendisligi/gri_su_aritma_sistemleri.md), [Swale Rehberi](file:///VAHA_201_Su_Muhendisligi/swale_tasarim_rehberi.md). | Su tutan arazi topoğrafyası oluşturma. |
 | [**Toprak Rejenerasyonu**](file:///VAHA_301_Toprak_Rejenerasyonu/) | **VAHA 301** | [Biochar/Kompost](file:///VAHA_301_Toprak_Rejenerasyonu/biochar_ve_kompost.md), [Nanokil](file:///VAHA_101_Teorik_Cerceve/nanokil_ve_toprak_bilimi.md), [Mikrobiyal Onarım](file:///VAHA_301_Toprak_Rejenerasyonu/mikrobiyal_toprak_onarimi.md). | Ölü toprağı canlı süngere dönüştürme. |
-| [**Bitki ve Flora**](file:///VAHA_401_Bitki_ve_Flora/) | **VAHA 401** | [Sukulentler](file:///VAHA_401_Bitki_ve_Flora/sukulentler_ve_adaptasyon.md), [Ağaçlar/Çalılar](file:///VAHA_401_Bitki_ve_Flora/kuraksil_agaclar_ve_calilar.md). | Su istemeyen dirençli bitki örtüsü tesisi. |
+| [**Bitki ve Flora**](file:///VAHA_401_Bitki_ve_Flora/) | **VAHA 401** | [Sukulentler](file:///VAHA_401_Bitki_ve_Flora/sukulentler_ve_adaptasyon.md), [Ağaçlar](file:///VAHA_401_Bitki_ve_Flora/kuraksil_agaclar_ve_calilar.md), [Yer Örtücüler](file:///VAHA_401_Bitki_ve_Flora/kuraksil_yer_ortuculer.md). | Su istemeyen dirençli bitki örtüsü tesisi. |
 | [**Tasarım ve Uygulama**](file:///VAHA_501_Tasarim_ve_Uygulama/) | **VAHA 501** | [Permakültür](file:///VAHA_501_Tasarim_ve_Uygulama/permakultur_bolgeleri.md), [IoT Kodları](file:///VAHA_501_Tasarim_ve_Uygulama/vaha_kontrol_unitesi_arduino_kodlari.md), [Mikro-İklim](file:///VAHA_501_Tasarim_ve_Uygulama/mikro_iklim_olusturma.md). | Akıllı ve otomatik vaha yönetimi. |
-| [**Geleneksel Bilgelik**](file:///VAHA_601_Geleneksel_Bilgelik/) | **VAHA 601** | [Kehrizler](file:///VAHA_601_Geleneksel_Bilgelik/kehriz_sistemleri.md), [Sarnıçlar](file:///VAHA_601_Geleneksel_Bilgelik/antik_sarnic_mimarisi.md), [Buzhaneler](file:///VAHA_601_Geleneksel_Bilgelik/antik_buzhane_mimarisi.md), [Küresel Stratejiler](file:///VAHA_601_Geleneksel_Bilgelik/kuresel_vaha_stratejileri.md). | Tarihsel süreklilik ve kadim teknikler. |
+| [**Geleneksel Bilgelik**](file:///VAHA_601_Geleneksel_Bilgelik/) | **VAHA 601** | [Kehrizler](file:///VAHA_601_Geleneksel_Bilgelik/kehriz_sistemleri.md), [Sarnıçlar](file:///VAHA_601_Geleneksel_Bilgelik/antik_sarnic_mimarisi.md), [Teraslar](file:///VAHA_601_Geleneksel_Bilgelik/antik_tarim_teraslari.md). | Tarihsel süreklilik ve kadim teknikler. |
 
 ---
 
