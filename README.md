@@ -31,6 +31,8 @@ Eğitime başlamadan önce adayların aşağıdaki temel ekipman ve zihinsel haz
 
 ---
 
+![Su Mühendisliği Görseli](https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&q=80&w=2070)
+
 ## 🗺️ Müfredat Akış Şeması (Modüller)
 
 Program, temel teoriden karmaşık sistem tasarımına doğru ilerleyen 6 ana modülden oluşmaktadır:
@@ -67,6 +69,8 @@ Teorinin pratikle, kadimin modernle buluştuğu noktadır. Permakültür bölgel
 İnsanlığın binlerce yıllık hayatta kalma mirası günümüze taşınır. İnka teraslarından İran'ın antik buzhanelerine (Yakhchāl), Mezopotamya'nın kehrizlerinden Çin'in Loess Platosu restorasyonuna kadar küresel başarı hikayeleri analiz edilir. Geçmişin mühendisliği, geleceğin vahaları için ilham kaynağı olur.
 
 ---
+
+![Toprak ve Teknoloji Görseli](https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&q=80&w=2070)
 
 ## 🧪 Laboratuvar ve Ar-Ge Birimleri
 
@@ -117,6 +121,8 @@ Bu müfredat insanlığın ortak mirasıdır. Bilginizi veya yerel teknikleriniz
 - **Uygulayıcı:** Kendi "Vaha Master Planınızı" ve uygulama sonuçlarınızı toplulukla paylaşın.
 
 ---
+
+![Vaha Gelecek Vizyonu](https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=2070)
 
 ## 🎓 Mezuniyet ve Uygulama
 
