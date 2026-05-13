@@ -7,7 +7,7 @@
 
 ---
 
-## 🏛️ Eğitim Vizyonu
+## 🏛️ Eğitim Vizyonu ve Akademik Duruş
 
 Bu programı tamamlayan bir "Vaha Mühendisi", sadece bitki yetiştirmeyi değil; suyun termodinamiğini, toprağın mikrobiyolojisini ve sistemin ekolojik egemenliğini yönetmeyi öğrenir. Müfredat, beş ana yetkinlik alanı üzerine inşa edilmiştir:
 
@@ -19,42 +19,70 @@ Bu programı tamamlayan bir "Vaha Mühendisi", sadece bitki yetiştirmeyi değil
 
 ---
 
-## 🗺️ Müfredat Akış Şeması
+## 📋 Ön Koşullar ve Hazırlık
+
+Eğitime başlamadan önce adayların aşağıdaki temel ekipman ve zihinsel hazırlığa sahip olması önerilir:
+
+- **Gözlem Yeteneği:** Araziyi en az bir tam mevsim boyunca izleme sabrı.
+- **Temel Teknik Araçlar:** Toprak pH ölçer, nem sensörü, temel bahçe aletleri.
+- **Dijital Okuryazarlık:** Temel Arduino/ESP32 bilgisi (VAHA 501 için).
+- **Etik Taahhüt:** Doğaya karşı değil, doğa ile simbiyotik çalışma disiplini.
+
+---
+
+## 🗺️ Müfredat Akış Şeması (Modüller)
 
 Program, temel teoriden karmaşık sistem tasarımına doğru ilerleyen 6 ana modülden oluşmaktadır:
 
-| Modül | Ders Kodu | Kapsam |
-| :--- | :--- | :--- |
-| [**Teorik Çerçeve**](file:///VAHA_101_Teorik_Cerceve/) | **VAHA 101** | Xeriscape felsefesi, kurakçıl ekoloji ve sistem etiği. |
-| [**Su Mühendisliği**](file:///VAHA_201_Su_Muhendisligi/) | **VAHA 201** | Pasif su hasadı, swale tasarımı ve atmosferik su yakalama. |
-| [**Toprak Rejenerasyonu**](file:///VAHA_301_Toprak_Rejenerasyonu/) | **VAHA 301** | Biochar, kompost simyası ve nanokil teknolojileri. |
-| [**Bitki ve Flora**](file:///VAHA_401_Bitki_ve_Flora/) | **VAHA 401** | Sukulent adaptasyonu, endemik türler ve rüzgar kıranlar. |
-| [**Tasarım ve Uygulama**](file:///VAHA_501_Tasarim_ve_Uygulama/) | **VAHA 501** | Permakültür bölgeleri, mikro-iklim yönetimi ve IoT entegrasyonu. |
-| [**Geleneksel Bilgelik**](file:///VAHA_601_Geleneksel_Bilgelik/) | **VAHA 601** | Qanat/Kehriz sistemleri ve antik su hukuku. |
+| Modül | Ders Kodu | Kapsam | Kazanımlar |
+| :--- | :--- | :--- | :--- |
+| [**Teorik Çerçeve**](file:///VAHA_101_Teorik_Cerceve/) | **VAHA 101** | Xeriscape felsefesi ve sistem etiği. | Ekolojik tasarım vizyonu ve etik altyapı. |
+| [**Su Mühendisliği**](file:///VAHA_201_Su_Muhendisligi/) | **VAHA 201** | Pasif su hasadı ve swale tasarımı. | Su tutan arazi topoğrafyası oluşturma. |
+| [**Toprak Rejenerasyonu**](file:///VAHA_301_Toprak_Rejenerasyonu/) | **VAHA 301** | Biochar ve nanokil teknolojileri. | Ölü toprağı canlı süngere dönüştürme. |
+| [**Bitki ve Flora**](file:///VAHA_401_Bitki_ve_Flora/) | **VAHA 401** | Sukulentler ve rüzgar kıranlar. | Su istemeyen dirençli bitki örtüsü tesisi. |
+| [**Tasarım ve Uygulama**](file:///VAHA_501_Tasarim_ve_Uygulama/) | **VAHA 501** | Permakültür ve IoT entegrasyonu. | Akıllı ve otomatik vaha yönetimi. |
+| [**Geleneksel Bilgelik**](file:///VAHA_601_Geleneksel_Bilgelik/) | **VAHA 601** | Qanat/Kehriz ve antik su hukuku. | Tarihsel süreklilik ve kadim teknikler. |
 
 ---
 
-## 🛠️ Laboratuvar ve Ar-Ge
+## 🧪 Laboratuvar ve Ar-Ge Birimleri
 
-Müfredat, teorik bilginin ötesinde gerçek dünya verilerine dayalı bir araştırma laboratuvarı gibi çalışır:
+Müfredat, teorik bilginin ötesinde gerçek dünya verilerine dayalı bir araştırma ekosistemi sunar:
 
-*   **Nanoteknoloji Birimi:** Sıvı nanokil uygulamaları ve toprak porozite analizleri.
-*   **IoT Gözlemevi:** ESP32 ve LoRaWAN tabanlı akıllı vaha kontrol üniteleri.
-*   **Genetik Arşiv:** Kuraklığa en dayanıklı atalık tohumların ve bitki türlerinin listesi.
+### 🔬 Nanoteknoloji ve Toprak Bilimi
+*   **LNC Protokolleri:** Sıvı nanokil karışım oranları ve uygulama teknikleri.
+*   **Porozite Analizi:** Farklı toprak tiplerinin su tutma kapasitesi testleri.
+
+### 📡 Dijital Gözlemevi (IoT)
+*   **Vaha-OS:** ESP32 tabanlı, güneş enerjili akıllı sulama ve izleme sistemi yazılımı.
+*   **Uydu Entegrasyonu:** Sentinel-2 verileri ile bitki sağlığı (NDVI) takibi.
+
+### 🧬 Genetik Arşiv
+*   **Dirençli Türler Listesi:** Akdeniz ve Orta Doğu kuşakları için optimize edilmiş bitki veri seti.
+*   **Atalık Tohum Bankası:** Kuraklığa dayanıklı yerel varyetelerin korunması.
 
 ---
 
-## 🎓 Mezuniyet Projesi
+## 🎓 Mezuniyet ve Uygulama
 
-Müfredatı tamamlayan kullanıcıların; kendi bölgeleri için su, toprak ve bitki katmanlarını içeren **"Vaha Master Planı"** hazırlamaları ve bunu toplulukla paylaşmaları teşvik edilir.
+Müfredatı tamamlayan kullanıcıların; kendi bölgeleri için su, toprak ve bitki katmanlarını içeren **"Vaha Master Planı"** hazırlamaları beklenir. Başarılı uygulamalar "Community Showcase" bölümünde sergilenir.
 
 ---
 
-## 📜 Manifesto
+## 📜 Etik Kurallar ve İlkeler
 
-*"Suyu anlayan, toprağı yaşatır; toprağı yaşatan, geleceği inşa eder."*
+1.  **Su Kutsaldır:** Her damla suyun toprağın derinliklerine ulaşması sağlanmalıdır.
+2.  **Toprak Canlıdır:** Kimyasal gübre ve pestisit kullanımı kesinlikle reddedilir.
+3.  **Yerellik Esastır:** İstilacı türler yerine yerel/endemik flora önceliklendirilir.
+4.  **Bilgi Paylaşılmalıdır:** Vaha Mekaniği açık kaynaklıdır; keşfedilen her yeni teknik toplulukla paylaşılır.
 
-Vaha Mühendisliği, doğa ile kurulan simbiyotik bir ortaklığın teknik altyapısıdır. Biz burada sadece bitki yetiştirmiyoruz; biz burada **direnç** inşa ediyoruz.
+---
+
+## 📚 Kaynakça ve İlham
+
+*   *Design for Arid Zones* - Gideon Golany
+*   *Rainwater Harvesting for Drylands and Beyond* - Brad Lancaster
+*   *The One-Straw Revolution* - Masanobu Fukuoka
 
 ---
 
