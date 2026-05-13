@@ -1,71 +1,52 @@
-# 🏜️ VAHA MEKANİĞİ
-> **Kurak Topraklarda Yaşamın Mühendisliği: Xeriscape ve Su Etkin Ekolojik Restorasyon**
+# 🎓 VAHA MÜHENDİSLİĞİ MÜFREDATI
+> **Kurak Topraklarda Yaşamın İnşası: Kapsamlı Ekolojik Restorasyon ve Tasarım Eğitimi**
 
-![Vaha Mekaniği Banner](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=2070)
+![Vaha Mühendisliği Banner](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=2070)
 
-**Vaha Mekaniği**, iklim krizi ve su kıtlığı çağında, doğanın kadim bilgeliğini modern mühendislik disiplinleriyle harmanlayan açık kaynaklı bir **Medeniyet Külliyatı**dır. Bu depo, betonlaşan ve kuruyan coğrafyaları yeniden nefes alan, su tutan ve kendi kendini idame ettiren "vahalara" dönüştürmek için tasarlanmış bir doktrin merkezidir.
-
----
-
-## 🏛️ Külliyatın Temelleri
-
-Sistemimiz, suyun kutsallığını ve toprağın direncini merkezine alan beş ana sütun üzerine inşa edilmiştir:
-
-1.  **Termodinamik Denge:** Güneşin yakıcı etkisini, gölge mimarisi ve evaporatif soğutma ile yönetmek.
-2.  **Su Hasadı Mimarisi:** Gökyüzünden düşen her damlayı toprağın derinliklerinde hapsetmek ve yeraltı nehirlerini taklit etmek.
-3.  **Biyo-Mimari:** Bölgenin genetiğine işlenmiş kurakçıl (Xerophytic) türlerle estetik ve dirençli ekosistemler kurmak.
-4.  **Toprak Simyası:** Ölü toz yığınlarını, mikrobiyal hayat ve karbon tutma teknikleriyle canlı bir süngere dönüştürmek.
-5.  **Atalık Bilgelik:** Kehrizlerden sarnıçlara, insanlığın binlerce yıllık kuraklıkla mücadele mirasını dijital çağa taşımak.
+**Vaha Mühendisliği Müfredatı**, iklim krizi ve çölleşme tehdidi altındaki dünyamızda, bir araziyi 12 ay içinde kendi kendini idame ettirebilen dirençli bir ekosisteme dönüştürmek için tasarlanmış açık kaynaklı bir **Eğitim Protokolü**dür. Bu müfredat, kadim vaha bilgeliğini modern mühendislik disiplinleri ve nanoteknoloji ile birleştirir.
 
 ---
 
-## 🧪 İleri Teknoloji Katmanı
+## 🏛️ Eğitim Vizyonu
 
-Vaha Mekaniği, sadece kürek ve toprakla değil, aynı zamanda 21. yüzyılın teknolojik imkanlarıyla donatılmıştır:
+Bu programı tamamlayan bir "Vaha Mühendisi", sadece bitki yetiştirmeyi değil; suyun termodinamiğini, toprağın mikrobiyolojisini ve sistemin ekolojik egemenliğini yönetmeyi öğrenir. Müfredat, beş ana yetkinlik alanı üzerine inşa edilmiştir:
 
-*   **Sıvı Nanokil (LNC):** Kum taneciklerini kil ile kaplayarak su tutma kapasitesini 10 kat artıran Norveç menşeli nanoteknolojik müdahale.
-*   **IoT Tabanlı Akıllı Sulama:** Toprak nemini, tuzluluğu ve bitki stresini gerçek zamanlı izleyen sensör ağları ile "nokta atışı" su yönetimi.
-*   **Yapay Zeka ve Uydu Gözlemi:** Restorasyon alanlarındaki bitki örtüsü gelişimini Sentinel uyduları ve AI algoritmaları ile takip ederek mikro-müdahaleler planlamak.
-*   **Biyomimikri ve Genetik Direnç:** Aşırı sıcaklığa ve tuzluluğa dayanıklı endemik türlerin CRISPR-Cas9 gibi yöntemlerle (etik sınırlar dahilinde) optimizasyonu.
+1.  **Hidro-Strateji:** Su kıtlığını, akıllı hasat ve yeraltı depolama ile aşmak.
+2.  **Karbon Simyası:** Toprağı bir karbon deposuna ve su tutan bir süngere dönüştürmek.
+3.  **Xero-Botanik:** Kurakçıl türlerin genetik avantajlarını peyzaja entegre etmek.
+4.  **Dijital Ekoloji:** IoT ve AI kullanarak ekosistemi gerçek zamanlı optimize etmek.
+5.  **Tarihsel Süreklilik:** Antik mühendislik çözümlerini (Kehriz vb.) 21. yüzyıla taşımak.
 
 ---
 
-## 🌍 Küresel Vaka Analizleri
+## 🗺️ Müfredat Akış Şeması
 
-Dünyanın dört bir yanındaki başarılı "vaha inşası" projeleri, metodolojimizin temelini oluşturur:
+Program, temel teoriden karmaşık sistem tasarımına doğru ilerleyen 6 ana modülden oluşmaktadır:
 
-| Proje | Bölge | Temel Strateji |
+| Modül | Ders Kodu | Kapsam |
 | :--- | :--- | :--- |
-| **Al Baydha** | Suudi Arabistan | Bedevi su hasadı teknikleri ile modern rejeneratif tarımın hibrit modellemesi. |
-| **Büyük Yeşil Duvar** | Sahel, Afrika | Sahra çölünün ilerlemesini durdurmak için 8.000 km'lik ağaçlandırma ve agro-ekoloji hattı. |
-| **Kubuqi Çölü** | Çin | Güneş enerjili sulama, saman bariyerleri ve endüstriyel ağaçlandırma ile çölün ekonomiye kazandırılması. |
-| **Loess Platosu** | Çin | 640.000 km²'lik alanda devasa teraslama ve erozyon kontrolü ile ekosistem onarımı. |
+| [**Teorik Çerçeve**](file:///VAHA_101_Teorik_Cerceve/) | **VAHA 101** | Xeriscape felsefesi, kurakçıl ekoloji ve sistem etiği. |
+| [**Su Mühendisliği**](file:///VAHA_201_Su_Muhendisligi/) | **VAHA 201** | Pasif su hasadı, swale tasarımı ve atmosferik su yakalama. |
+| [**Toprak Rejenerasyonu**](file:///VAHA_301_Toprak_Rejenerasyonu/) | **VAHA 301** | Biochar, kompost simyası ve nanokil teknolojileri. |
+| [**Bitki ve Flora**](file:///VAHA_401_Bitki_ve_Flora/) | **VAHA 401** | Sukulent adaptasyonu, endemik türler ve rüzgar kıranlar. |
+| [**Tasarım ve Uygulama**](file:///VAHA_501_Tasarim_ve_Uygulama/) | **VAHA 501** | Permakültür bölgeleri, mikro-iklim yönetimi ve IoT entegrasyonu. |
+| [**Geleneksel Bilgelik**](file:///VAHA_601_Geleneksel_Bilgelik/) | **VAHA 601** | Qanat/Kehriz sistemleri ve antik su hukuku. |
 
 ---
 
-## 🗺️ Gezinme Portalı
+## 🛠️ Laboratuvar ve Ar-Ge
 
-Aşağıdaki bölümler, vaha inşasının teorik ve pratik tüm aşamalarını kapsayan derinlemesine araştırmalar sunar:
+Müfredat, teorik bilginin ötesinde gerçek dünya verilerine dayalı bir araştırma laboratuvarı gibi çalışır:
 
-| Bölüm | Açıklama |
-| :--- | :--- |
-| [**01 Teorik Çerçeve**](file:///01_teorik_cerceve/) | Xeriscape felsefesi, kurakçıl ekoloji ve **Nanoteknolojik** toprak iyileştirme. |
-| [**02 Bitki ve Flora**](file:///02_bitki_ve_flora/) | Sukulentler, endemik çalılar ve su istemeyen peyzajın genetik arşivi. |
-| [**03 Su Mühendisliği**](file:///03_su_muhendisligi/) | Pasif su hasadı, swale hendekleri ve **Atmosferik Su Hasadı** (Sis ağları). |
-| [**04 Toprak Rejenerasyonu**](file:///04_toprak_rejenerasyonu/) | Biochar, kompost simyası ve mikrobiyal toprak sağlığı. |
-| [**05 Tasarım ve Uygulama**](file:///05_tasarim_ve_uygulama/) | Permakültür bölgeleri, **IoT Entegrasyonu** ve mikro-iklim tasarımı. |
-| [**06 Geleneksel Bilgelik**](file:///06_geleneksel_bilgelik/) | Qanat/Kehriz sistemleri ve antik Mezopotamya su yönetimi. |
+*   **Nanoteknoloji Birimi:** Sıvı nanokil uygulamaları ve toprak porozite analizleri.
+*   **IoT Gözlemevi:** ESP32 ve LoRaWAN tabanlı akıllı vaha kontrol üniteleri.
+*   **Genetik Arşiv:** Kuraklığa en dayanıklı atalık tohumların ve bitki türlerinin listesi.
 
 ---
 
-## 🚀 Yol Haritası (Roadmap)
+## 🎓 Mezuniyet Projesi
 
-Vaha Mekaniği'nin gelecekteki gelişim hedefleri:
-
-- [ ] **Faz 1:** Temel dokümantasyonun ve vaka analizlerinin tamamlanması (Devam ediyor).
-- [ ] **Faz 2:** Toprak nem sensörü ve Arduino tabanlı "Açık Kaynak Vaha Kontrol Ünitesi" şemalarının paylaşılması.
-- [ ] **Faz 3:** Farklı iklim kuşakları (Subtropikal, Akdeniz, Çöl) için hazır CAD tasarım şablonlarının oluşturulması.
-- [ ] **Faz 4:** Yerel topluluklar için "Kendi Vahanı Kur" mobil uygulamasının (Progressive Web App) geliştirilmesi.
+Müfredatı tamamlayan kullanıcıların; kendi bölgeleri için su, toprak ve bitki katmanlarını içeren **"Vaha Master Planı"** hazırlamaları ve bunu toplulukla paylaşmaları teşvik edilir.
 
 ---
 
@@ -73,16 +54,16 @@ Vaha Mekaniği'nin gelecekteki gelişim hedefleri:
 
 *"Suyu anlayan, toprağı yaşatır; toprağı yaşatan, geleceği inşa eder."*
 
-Vaha Mekaniği, sadece bir teknik rehber değil, aynı zamanda insanın doğa üzerindeki tahakkümünden, doğa ile kurulan simbiyotik bir ortaklığa geçişin manifestosudur. Biz burada sadece bitki yetiştirmiyoruz; biz burada **direnç** inşa ediyoruz.
+Vaha Mühendisliği, doğa ile kurulan simbiyotik bir ortaklığın teknik altyapısıdır. Biz burada sadece bitki yetiştirmiyoruz; biz burada **direnç** inşa ediyoruz.
 
 ---
 
 ## 📄 Lisans
 
-Bu proje **MIT Lisansı** altında korunmaktadır. Bilgi, su gibi özgürce akmalıdır.
+Bu müfredat **MIT Lisansı** altında korunmaktadır. Bilgi, su gibi özgürce akmalıdır.
 
 ---
 <p align="center">
-  <b>Vaha Mekaniği - İnsanlık İçin Yeşil Bir Gelecek</b><br>
-  <i>Digital Civilization Corpus © 2026</i>
+  <b>Vaha Mühendisliği Müfredatı - Bilgiyle Yeşeren Gelecek</b><br>
+  <i>Digital Civilization Academy © 2026</i>
 </p>
