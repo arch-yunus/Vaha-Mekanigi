@@ -32,5 +32,17 @@ Vahşi doğanın ve tarımın iç içe geçtiği geniş arazilerde su döngüsü
 - **Vaka Analizi:** **Mulloon Girişimi.** Dere yataklarına yapılan doğal müdahalelerle yeraltı su seviyesini yükseltip kuraklık zamanlarında bile yeşil kalan araziler yaratmak.
 - **Ders:** Toprak sağlığını iyileştirerek toprağı dev bir su deposuna dönüştürmek.
 
+## 6. Fas: Geleneksel Vaha Restorasyonu ve Güneş Enerjisi
+Mağrip coğrafyasında kadim vaha tarımını teknoloji ile canlandırıyorlar.
+- **Süper Gücü:** **Güneş Enerjili Sulama.** Uzak vahalarda fosil yakıt bağımlılığını bitirip sürdürülebilir sulama ağları kurmak.
+- **Vaka Analizi:** **Tafilalet Vahası.** Palmiye altı tarımı (üç katmanlı tarım) ve geleneksel kehriz kanallarının betonla değil, doğal malzemelerle onarılması.
+- **Ders:** Kadim sosyal dokuyu bozmadan teknolojik modernizasyon sağlamak.
+
+## 7. Peru: İnka Mühendisliği ve Waru Waru
+And Dağları'nın kurak ve yüksek yaylalarında binlerce yıllık su yönetimi mirası.
+- **Süper Gücü:** **Waru Waru (Yükseltilmiş Yataklar).** Su kanalları arasına kurulan bu adacıklar, suyu depolar, nemi korur ve gece donlarını önleyen bir mikro-iklim yaratır.
+- **Vaka Analizi:** **İnka Terasları (Andenes).** Dik yamaçları tarım alanına dönüştürürken suyun hızını kesen ve toprağı koruyan devasa taş mühendisliği.
+- **Ders:** Topoğrafyayı bir engel değil, bir su hasadı aracı olarak kullanmak.
+
 ---
 *"Dünya bir vaha inşa etmek istiyorsa, bu ülkelerin başarısından ders çıkarmalıdır."*
