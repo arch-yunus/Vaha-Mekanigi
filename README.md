@@ -41,7 +41,7 @@ Program, temel teoriden karmaşık sistem tasarımına doğru ilerleyen 6 ana mo
 | [**Toprak Rejenerasyonu**](file:///VAHA_301_Toprak_Rejenerasyonu/) | **VAHA 301** | [Biochar/Kompost](file:///VAHA_301_Toprak_Rejenerasyonu/biochar_ve_kompost.md), [Nanokil](file:///VAHA_101_Teorik_Cerceve/nanokil_ve_toprak_bilimi.md). | Ölü toprağı canlı süngere dönüştürme. |
 | [**Bitki ve Flora**](file:///VAHA_401_Bitki_ve_Flora/) | **VAHA 401** | [Sukulentler](file:///VAHA_401_Bitki_ve_Flora/sukulentler_ve_adaptasyon.md), [Ağaçlar/Çalılar](file:///VAHA_401_Bitki_ve_Flora/kuraksil_agaclar_ve_calilar.md). | Su istemeyen dirençli bitki örtüsü tesisi. |
 | [**Tasarım ve Uygulama**](file:///VAHA_501_Tasarim_ve_Uygulama/) | **VAHA 501** | [Permakültür](file:///VAHA_501_Tasarim_ve_Uygulama/permakultur_bolgeleri.md), [Mikro-İklim](file:///VAHA_501_Tasarim_ve_Uygulama/mikro_iklim_olusturma.md), [IoT](file:///VAHA_501_Tasarim_ve_Uygulama/akilli_sulama_ve_iot.md). | Akıllı ve otomatik vaha yönetimi. |
-| [**Geleneksel Bilgelik**](file:///VAHA_601_Geleneksel_Bilgelik/) | **VAHA 601** | [Kehrizler](file:///VAHA_601_Geleneksel_Bilgelik/kehriz_sistemleri.md), [Antik Sarnıçlar](file:///VAHA_601_Geleneksel_Bilgelik/antik_sarnic_mimarisi.md). | Tarihsel süreklilik ve kadim teknikler. |
+| [**Geleneksel Bilgelik**](file:///VAHA_601_Geleneksel_Bilgelik/) | **VAHA 601** | [Kehrizler](file:///VAHA_601_Geleneksel_Bilgelik/kehriz_sistemleri.md), [Antik Sarnıçlar](file:///VAHA_601_Geleneksel_Bilgelik/antik_sarnic_mimarisi.md), [Küresel Stratejiler](file:///VAHA_601_Geleneksel_Bilgelik/kuresel_vaha_stratejileri.md). | Tarihsel süreklilik ve kadim teknikler. |
 
 ---
 
